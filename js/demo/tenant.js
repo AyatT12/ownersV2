@@ -7,6 +7,7 @@ var data = anychart.data.set([
   [' اخري', 100 - percentage]
 ]);
 
+
 // set the colors according to the brands
 palette.items([
   { color: '#9747FF' },
